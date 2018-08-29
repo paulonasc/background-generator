@@ -5,7 +5,7 @@ var body = document.getElementById("gradient");
 var button = document.querySelector("button");
 
 function displayCSS() {
-	css.textContent = body.style.background = ";";
+	css.textContent = body.style.background + ";";
 }
 
 
